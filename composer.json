@@ -1,0 +1,14 @@
+{
+    "name": "asinking/ip",
+    "description": "IP query",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaoiang",
+            "email": "2498360338@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
